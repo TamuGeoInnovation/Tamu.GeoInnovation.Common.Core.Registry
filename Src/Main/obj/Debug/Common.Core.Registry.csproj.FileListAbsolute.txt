@@ -1,0 +1,4 @@
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Registry\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Registry.dll
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Registry\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Registry.pdb
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Registry\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.Registry.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Registry\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.Registry.pdb
